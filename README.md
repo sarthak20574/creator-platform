@@ -10,7 +10,7 @@ This is a full-stack web application built with the MERN stack, featuring two ke
 
 ## Live Demo
 
-Frontend (Vercel): [https://creator-platform-yourusername.vercel.app](https://creator-platform-yourusername.vercel.app)
+Frontend (Vercel): [https://creator-platform-yourusername.vercel.app](https://creator-platform-git-master-sarthak20574s-projects.vercel.app)
 
 Note: Backend API is not deployed yet – you’ll need to self-host or connect a backend for GPT responses.
 
